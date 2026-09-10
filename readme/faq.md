@@ -6,6 +6,8 @@ description: Frequently asked questions about TownyElections.
 
 Common questions from server owners, players, and candidates.
 
+![A player asking a question to another player holding a book](../assets/faq-chat.png)
+
 ## For Server Owners
 
 **Does TownyElections work with Towny advanced permission setups?**

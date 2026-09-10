@@ -20,6 +20,8 @@ Before installing TownyElections, make sure your server meets the following requ
 
 ## Installation Steps
 
+![Dropping the TownyElections jar into the plugins folder](../assets/install-plugins-folder.png)
+
 ### 1. Download the plugin
 
 Download the latest release of TownyElections from the official distribution channel (typically the releases page on the TownyElections repository or the Towny resources page).

@@ -4,6 +4,8 @@ description: Full reference for the TownyElections configuration file.
 
 # Configuration
 
+![Player editing the TownyElections config file with a quill](../assets/config-editor.png)
+
 TownyElections stores its settings in `plugins/TownyElections/config.yml`. This page documents every option, what it does, and sensible defaults.
 
 After editing the config, run `/telection reload` or restart your server for changes to take effect.

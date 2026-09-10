@@ -64,6 +64,8 @@ This opens the voting GUI, where you will see:
 * The time remaining in the election.
 * A list of candidates with their party affiliation (if parties are enabled).
 
+![The TownyElections voting ballot GUI](../assets/voting-gui.png)
+
 ### Plurality Voting
 
 If the server uses **plurality** (first-past-the-post), simply click the candidate you want to vote for. You will be asked to confirm your vote. Once confirmed, your vote is locked in and cannot be changed.
@@ -92,6 +94,8 @@ Depending on server configuration, you may or may not be able to change your vot
 
 ## Campaign Tips for Candidates
 
+![Candidates giving speeches to a crowd in the town square](../assets/campaign.png)
+
 Running a successful campaign in TownyElections is largely about being active and engaged with your town or nation members. Some suggestions:
 
 * **Announce your platform early.** Let people know what you plan to do as Mayor or Nation Leader — more plots, lower taxes, new infrastructure, etc.
@@ -114,6 +118,8 @@ You can check on elections at any time using a few useful commands:
 ## After the Election
 
 When voting closes and a winner is declared:
+
+![The elected player celebrating on a podium as the winner is announced](../assets/results-celebration.png)
 
 1. The winner is announced publicly in chat.
 2. The winner is automatically promoted to Mayor (if it was a town election) or Nation Leader (if it was a nation election) through Towny.
